@@ -13,7 +13,7 @@ module.exports = {
   },
   output: {
     path: './build',
-    filename: 'react-typewriter.js',
+    filename: 'react-animate-typewriter.js',
     library: 'TypeWriter',
     libraryTarget: 'umd'
   },

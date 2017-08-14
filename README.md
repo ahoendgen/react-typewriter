@@ -1,4 +1,4 @@
-react-typewriter
+react-animate-typewriter
 ================
 
 A react component for animated typing text.
@@ -7,7 +7,7 @@ Installation
 ------------
 
 ```
-npm install --save react-typewriter
+npm install --save react-animate-typewriter
 ```
 
 Usage
@@ -17,7 +17,7 @@ Pass in children to the TypeWriter component like any other component. Make sure
 
 ```jsx
 import React from 'react';
-import TypeWriter from 'react-typewriter';
+import TypeWriter from 'react-animate-typewriter';
 
 class YourReactClass extends React.Component {
 
@@ -144,4 +144,4 @@ This function can be called in order to *erase* the text immediately.
 License
 -------
 
-[MIT](https://github.com/ianbjorndilling/react-typewriter/blob/master/LICENSE.md)
+[MIT](https://github.com/CoxAutomotiveDataSolutions/react-animate-typewriter/blob/master/LICENSE.md)

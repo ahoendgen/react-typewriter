@@ -1,8 +1,8 @@
 {
-  "name": "react-typewriter",
+  "name": "react-animate-typewriter",
   "version": "0.4.1",
   "description": "React components for automatic typing effects.",
-  "main": "./build/react-typewriter.js",
+  "main": "./build/react-animate-typewriter.js",
   "scripts": {
     "prepublish": "npm run build",
     "build": "./node_modules/.bin/webpack -p",
@@ -17,11 +17,11 @@
     "react",
     "component"
   ],
-  "author": "Ian Dilling <ianbjorndilling@gmail.com>",
+  "author": "Cox Automotive Data Solutions <datasolutionsdevelopment@coxauto.co.uk>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ianbjorndilling/react-typewriter.git"
+    "url": "https://github.com/CoxAutomotiveDataSolutions/react-typewriter.git"
   },
   "dependencies": {
     "react": "^0.14.7"

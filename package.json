@@ -23,11 +23,11 @@
     "type": "git",
     "url": "https://github.com/CoxAutomotiveDataSolutions/react-typewriter.git"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "^0.14.7"
   },
   "devDependencies": {
-    "babel-core": "^6.5.2",
+    "babel-core": "^6.26.3",
     "babel-eslint": "^3.1.20",
     "babel-loader": "^6.2.3",
     "babel-plugin-add-module-exports": "^0.1.2",

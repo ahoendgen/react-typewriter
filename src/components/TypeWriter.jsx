@@ -1,5 +1,6 @@
 import React from 'react';
 import {componentTokenAt, styleComponentSubstring} from '../utils';
+import PropTypes from 'prop-types'; // ES6
 
 /**
  * TypeWriter
